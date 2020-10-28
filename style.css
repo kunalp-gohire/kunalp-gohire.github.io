@@ -69,7 +69,7 @@ html, body {
 .headname h1 {
     font-family: 'Asap', sans-serif;
     text-align: center;
-    background: url(http://f.cl.ly/items/010q3E1u3p2Q0j1L1S1o/animated_text_fill.png) repeat-y;
+    background: url("./images/animated_text_fill (2).png") repeat-y;
     /* background:url( C:\Users\KUNAL\Desktop\Portfolio_Template); */
     -webkit-background-clip: text;
     background-clip: text;
